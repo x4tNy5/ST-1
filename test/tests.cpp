@@ -30,7 +30,7 @@ TEST(st1, nextPrime_0) {
   EXPECT_EQ(nextPrime(0), 2);
 }
 TEST(st1, sumPrime_lite) {
-  EXPECT_EQ(sumPrime(3), );
+  EXPECT_EQ(sumPrime(3), 2);
 }
 TEST(st1, sumPrime_0) {
   EXPECT_EQ(sumPrime(0), 0);
